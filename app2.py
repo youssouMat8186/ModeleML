@@ -13,11 +13,11 @@ st.write(data.head())
 st.dataframe(data.head())
 
 # Rien ne s'affiche
-plt.hist(data.Dist_norm)
-plt.show()
+#plt.hist(data.Dist_norm)
+#plt.show()
 
 # Pour Afficher
-st.pyplot()
+#st.pyplot()
 
 # Pour enlever le warning
 
